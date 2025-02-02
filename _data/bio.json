@@ -4,24 +4,29 @@
     "label": "Software Engineer",
     "picture": "https://avatars.githubusercontent.com/u/32248549?v=4",
     "website": "https://ahmed-n-abdeltwab.github.io/",
-    "summary": "I am currently a Software Development Engineer at Amazon Web Services (AWS), working on very exciting projects. Happy to refer!",
+    "summary": "
+            ### **Summary**  
+                I am a **Software Engineer** with a strong background in **backend development**. I hold a **Bachelor’s degree in Computer Science** and have experience in **C++, Python, JavaScript, and TypeScript**. My expertise includes **Node.js, Express.js, Flask, Docker, PostgreSQL, and CI/CD pipelines**.  
+                I have developed projects such as a **Spyware Detector**, achieving **96.3% accuracy**, and a **real-time chat application** optimized for performance and scalability. I am also familiar with **QEMU, SystemC/TLM modeling, Linux/RTOS environments, and microprocessor architectures**.  
+                I am passionate about **building efficient, high-performance software** and continuously expanding my knowledge in **AI, and software engineering best practices**.
+        ",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "San Jose",
+      "city": "",
       "countryCode": "",
-      "region": "CA"
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "zhenye-na",
-        "url": "http://github.com/zhenye-na"
+        "username": "ahmed-n-abdeltwab",
+        "url": "https://github.com/ahmed-n-abdeltwab"
       },
       {
         "network": "linkedin",
-        "username": "zhenyena",
-        "url": "https://www.linkedin.com/in/zhenyena/"
+        "username": "ahmed-n-abdeltwab",
+        "url": "www.linkedin.com/in/ahmed-n-abdeltwab"
       }
     ]
   },
@@ -35,11 +40,6 @@
       "name": "Machine Learning",
       "keywords": [
       ]
-    },
-    {
-      "name": "Data Science",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -47,10 +47,10 @@
       "name": "Languages",
       "level": "",
       "keywords": [
-        "Java",
-        "Typescript/Javascript",
+        "JavaScript",
         "Python",
-        "Golang",
+        "TypeScript",
+        "C++",
         "Shell scripting",
         "HTML",
         "CSS"
@@ -60,13 +60,10 @@
       "name": "Frameworks",
       "level":"",
       "keywords": [
-        "Spring",
-        "TensorFlow",
-        "PyTorch",
-        "Symfony",
+        "Express",
+        "Flask",
         "Django",
         "React",
-        "Angular"
       ]
     },
     {
@@ -76,39 +73,32 @@
         "AWS",
         "Docker",
         "Kubernetes",
-        "Helm",
-        "Grafana"
+        "Jasmine",
+        "Vim",
+        "Postman",
+        "Git"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Illinois at Urbana - Champaign",
-      "area": "Master of Science, Industrial Engineering in Advanced Analytics",
-      "endDate": "May 2019"
-    },
-    {
-      "institution": "Dalian University of Technology",
-      "area": "Bachelor of Engineering, Harbor, Waterway and Coastal Engineering",
-      "endDate": "July 2017"
+      "institution": "Faculty of Computers and Information, Fayoum University, Egypt",
+      "area": "Bachelor's Degree in Computer Science",
+      "endDate": "May 2022"
     }
   ],
   "work": [
     {
-      "company": "Amazon Web Services (AWS)",
-      "position": "Software Development Engineer",
-      "startDate": "July 2021",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "CrowdCirlce Inc. dba HealthCrowd",
-      "position": "Data Engineer",
-      "startDate": "Mar. 2020",
-      "endDate": "Jun. 2021",
-      "summary": "",
+      "company": "NDM",
+      "position": "Back End Developer Intern",
+      "startDate": "Sep 2022",
+      "endDate": "Dec 2022",
+      "summary": "
+            Implemented a **frontend and Django API-- for the company project’s pipeline, resulting in:
+                - **25%** increase in project efficiency.
+                - **30%** reduction in errors.
+                - Collaborated with a team of **6 developers** to deliver the project on time
+            ",
       "highlights": [
       ]
     }
