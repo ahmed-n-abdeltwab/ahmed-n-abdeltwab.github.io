@@ -4,14 +4,7 @@
     "label": "Software Engineer",
     "picture": "https://avatars.githubusercontent.com/u/62723180?v=4",
     "website": "https://ahmed-n-abdeltwab.github.io/",
-    "summary": "
-             <h5>Summary</h5>  
-                I am a <strong>Software Engineer</strong> with a strong background in <strong>backend development</strong> I hold a<strong> Bachelor’s degree in Computer Science</strong> and have experience in<strong> C++, Python, JavaScript, and TypeScript</strong>. My expertise includes<strong> Node.js, Express.js, Flask, Docker, PostgreSQL, and CI/CD pipelines</strong>.  
-
-                I have developed projects such as a <strong>Spyware Detector</strong>, achieving <strong>96.3% accuracy</strong>, and a <strong>real-time chat application</strong>, optimized for performance and scalability. I am also familiar with<strong> QEMU, SystemC/TLM modeling, Linux/RTOS environments, and microprocessor architectures</strong>.  
-
-                I am passionate about <strong>building efficient, high-performance software</strong>, and continuously expanding my knowledge in <strong>AI, and software engineering best practices</strong>. 
-        ",
+    "summary": "Software Engineer with a strong backend development background and a Bachelor's in Computer Science. Experienced in C++, Python, JavaScript, and TypeScript, with expertise in Node.js, Express.js, Flask, Docker, PostgreSQL, and CI/CD. Developed a Spyware Detector (96.3% accuracy) and a real-time chat application. Familiar with QEMU, SystemC/TLM modeling, Linux/RTOS, and microprocessor architectures. Passionate about building efficient, high-performance software.",
     "location": {
       "address": "",
       "postalCode": "",
