@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "https://avatars.githubusercontent.com/u/62723180?v=4",
     "website": "https://ahmed-n-abdeltwab.github.io/",
-    "summary": "Software Engineer with a strong backend development background and a Bachelor's in Computer Science. Experienced in C++, Python, JavaScript, and TypeScript, with expertise in Node.js, Express.js, Flask, Docker, PostgreSQL, and CI/CD. Developed a Spyware Detector (96.3% accuracy) and a real-time chat application. Familiar with QEMU, SystemC/TLM modeling, Linux/RTOS, and microprocessor architectures. Passionate about building efficient, high-performance software.",
+    "summary": "Software Engineer passionate about Backend Engineering",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,70 +30,39 @@
       "name": "Software Development",
       "keywords": [
       ]
-    },
-    {
-      "name": "Machine Learning",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
     {
       "name": "Languages",
       "level": "",
-      "keywords": [
-        "JavaScript",
-        "Python",
-        "TypeScript",
-        "C++",
-        "Shell scripting",
-        "HTML",
-        "CSS"
-      ]
+      "keywords": []
     },
     {
       "name": "Frameworks",
       "level":"",
-      "keywords": [
-        "Express",
-        "Flask",
-        "Django",
-        "React",
-      ]
+      "keywords": []
     },
     {
       "name": "Tools",
       "level": "",
-      "keywords": [
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "Jasmine",
-        "Vim",
-        "Postman",
-        "Git"
-      ]
+      "keywords": []
     }
   ],
   "education": [
     {
-      "institution": "Faculty of Computers and Information, Fayoum University, Egypt",
-      "area": "Bachelor's Degree in Computer Science",
-      "endDate": "May 2022"
+      "institution": "",
+      "area": "",
+      "endDate": ""
     }
   ],
   "work": [
     {
-      "company": "NDM",
-      "position": "Back End Developer Intern",
-      "startDate": "Sep 2022",
-      "endDate": "Dec 2022",
-      "summary": "
-            Implemented a<strong>frontend and Django API-- for the company project’s pipeline, resulting in:
-                - <strong>25%</strong> increase in project efficiency.
-                - <strong>30%</strong> reduction in errors.
-                - Collaborated with a team of<strong>6 developers</strong> to deliver the project on time
-            ",
+      "company": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
       ]
     }
