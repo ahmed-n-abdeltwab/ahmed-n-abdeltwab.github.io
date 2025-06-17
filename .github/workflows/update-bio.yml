@@ -9,6 +9,7 @@ on:
 
 env:
   GITHUB_USERNAME: 'ahmed-n-abdeltwab'
+  GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
 
 jobs:
   update_bio:
