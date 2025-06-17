@@ -1,0 +1,40 @@
+name: Update Bio JSON
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+env:
+  GITHUB_USERNAME: 'your-username'
+
+jobs:
+  update_bio:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install axios
+        working-directory: scripts/
+
+      - name: Run script
+        run: node scripts/update-bio.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [[ -n "$(git status --porcelain _data/bio.json)" ]]; then
+            git add _data/bio.json
+            git commit -m 'Update _data/bio.json with latest GitHub profile data'
+            git push
+          fi
