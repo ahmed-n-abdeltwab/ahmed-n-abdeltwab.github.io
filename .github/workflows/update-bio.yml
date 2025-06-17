@@ -8,7 +8,7 @@ on:
       - main
 
 env:
-  GITHUB_USERNAME: 'your-username'
+  GITHUB_USERNAME: 'ahmed-n-abdeltwab'
 
 jobs:
   update_bio:
