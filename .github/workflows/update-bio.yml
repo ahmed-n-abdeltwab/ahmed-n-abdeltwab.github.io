@@ -28,7 +28,7 @@ jobs:
 
       - name: Run script
         env:
-          API_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-bio.js
 
       - name: Commit and push if changed
