@@ -4,14 +4,7 @@
     "label": "Software Engineer",
     "picture": "https://avatars.githubusercontent.com/u/62723180?v=4",
     "website": "https://ahmed-n-abdeltwab.github.io/",
-    "summary": "
-             <h5>Summary</h5>  
-                I am a <strong>Software Engineer</strong> with a strong background in <strong>backend development</strong> I hold a<strong> Bachelor’s degree in Computer Science</strong> and have experience in<strong> C++, Python, JavaScript, and TypeScript</strong>. My expertise includes<strong> Node.js, Express.js, Flask, Docker, PostgreSQL, and CI/CD pipelines</strong>.  
-
-                I have developed projects such as a <strong>Spyware Detector</strong>, achieving <strong>96.3% accuracy</strong>, and a <strong>real-time chat application</strong>, optimized for performance and scalability. I am also familiar with<strong> QEMU, SystemC/TLM modeling, Linux/RTOS environments, and microprocessor architectures</strong>.  
-
-                I am passionate about <strong>building efficient, high-performance software</strong>, and continuously expanding my knowledge in <strong>AI, and software engineering best practices</strong>. 
-        ",
+    "summary": "Software Engineer passionate about Backend Engineering",
     "location": {
       "address": "",
       "postalCode": "",
@@ -37,70 +30,39 @@
       "name": "Software Development",
       "keywords": [
       ]
-    },
-    {
-      "name": "Machine Learning",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
     {
       "name": "Languages",
       "level": "",
-      "keywords": [
-        "JavaScript",
-        "Python",
-        "TypeScript",
-        "C++",
-        "Shell scripting",
-        "HTML",
-        "CSS"
-      ]
+      "keywords": []
     },
     {
       "name": "Frameworks",
       "level":"",
-      "keywords": [
-        "Express",
-        "Flask",
-        "Django",
-        "React",
-      ]
+      "keywords": []
     },
     {
       "name": "Tools",
       "level": "",
-      "keywords": [
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "Jasmine",
-        "Vim",
-        "Postman",
-        "Git"
-      ]
+      "keywords": []
     }
   ],
   "education": [
     {
-      "institution": "Faculty of Computers and Information, Fayoum University, Egypt",
-      "area": "Bachelor's Degree in Computer Science",
-      "endDate": "May 2022"
+      "institution": "",
+      "area": "",
+      "endDate": ""
     }
   ],
   "work": [
     {
-      "company": "NDM",
-      "position": "Back End Developer Intern",
-      "startDate": "Sep 2022",
-      "endDate": "Dec 2022",
-      "summary": "
-            Implemented a<strong>frontend and Django API-- for the company project’s pipeline, resulting in:
-                - <strong>25%</strong> increase in project efficiency.
-                - <strong>30%</strong> reduction in errors.
-                - Collaborated with a team of<strong>6 developers</strong> to deliver the project on time
-            ",
+      "company": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
       ]
     }
