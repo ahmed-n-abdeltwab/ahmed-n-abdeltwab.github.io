@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "https://avatars.githubusercontent.com/u/62723180?v=4",
     "website": "https://ahmed-n-abdeltwab.github.io/",
-    "summary": "Software Engineer passionate about Backend Engineering",
+    "summary": "echo \"Hello World!\";",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,13 +23,13 @@
         "username": "ahmed-n-abdeltwab",
         "url": "https://www.linkedin.com/in/ahmed-n-abdeltwab"
       }
-    ]
+    ],
+    "public_repos": 36
   },
   "interests": [
     {
       "name": "Software Development",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -40,7 +40,7 @@
     },
     {
       "name": "Frameworks",
-      "level":"",
+      "level": "",
       "keywords": []
     },
     {
@@ -63,8 +63,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": []
     }
   ]
 }
